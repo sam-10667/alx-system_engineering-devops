@@ -1,0 +1,1 @@
+THis script is used to print current working directory
