@@ -1,0 +1,1 @@
+This script is used to answer questions on the shell redirections question
